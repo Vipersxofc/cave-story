@@ -1,0 +1,2 @@
+makes either Pico or Quote fire a bullet.
+v1: quote, pico
