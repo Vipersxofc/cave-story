@@ -1,0 +1,257 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "QuoteIdle01"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idleSPIN",
+			"indices": [],
+			"name": "QuoteIdleSpin"
+		},
+		{
+			"offsets": [
+				9,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "QuoteHey"
+		},
+		{
+			"offsets": [
+				10,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "QuoteDown01"
+		},
+		{
+			"offsets": [
+				-60,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "QuoteDown02"
+		},
+		{
+			"offsets": [
+				-11,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "QuoteLeft01"
+		},
+		{
+			"offsets": [
+				16,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "QuoteLeft02"
+		},
+		{
+			"offsets": [
+				66,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "QuoteUp01"
+		},
+		{
+			"offsets": [
+				22,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "QuoteUp02"
+		},
+		{
+			"offsets": [
+				-61,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "QuoteRight01"
+		},
+		{
+			"offsets": [
+				9,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "QuoteRight02"
+		},
+		{
+			"offsets": [
+				12,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "QuoteMissDown"
+		},
+		{
+			"offsets": [
+				-60,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "QuoteMissRight"
+		},
+		{
+			"offsets": [
+				64,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "QuoteMissUp"
+		},
+		{
+			"offsets": [
+				-1,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "QuoteMissLeft"
+		},
+		{
+			"offsets": [
+				-61,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootDOWN",
+			"indices": [],
+			"name": "QuoteShootDown"
+		},
+		{
+			"offsets": [
+				-84,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootRIGHT",
+			"indices": [],
+			"name": "QuoteShootRight"
+		},
+		{
+			"offsets": [
+				28,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootLEFT",
+			"indices": [],
+			"name": "QuoteShootLeft"
+		},
+		{
+			"offsets": [
+				248,
+				249
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "QuoteDead"
+		},
+		{
+			"offsets": [
+				78,
+				5000
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "QuoteDead"
+		}
+		,
+		{
+			"offsets": [
+				78,
+				5000
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "QuoteDead"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/quote",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "quote",
+	"playericon": "quoteplay",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		45,
+		50
+	],
+	"camera_position": [
+		-300,
+		-260
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"gameover_Character": "quote"
+}

@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "QuoteBLeft01",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "QuoteBUp01",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "QuoteBDown01",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-53
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "QuoteBRight01",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				79
+			],
+			"anim": "switch",
+			"fps": 24,
+			"name": "QuoteItemSwitch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "QuoteBIdle01",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-30
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "QuoteThrowBlade",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/QuoteBlade",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "quote",
+	"playericon": "quoteplay",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		45,
+		50
+	],
+	"camera_position": [
+		10,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"gameover_Character": "quote"
+}

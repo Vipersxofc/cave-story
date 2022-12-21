@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "CurlyIdle"
+		},
+		{
+			"offsets": [
+				-10,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "charge",
+			"loop": false,
+			"name": "CurlyCharge"
+		},
+		{
+			"offsets": [
+				-7,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shoot",
+			"loop": false,
+			"name": "CurlyShoot"
+		},
+		{
+			"offsets": [
+				-10,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bg_idle",
+			"loop": false,
+			"name": "CurlyBackgroundIdle"
+		},
+		{
+			"offsets": [
+				0,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "CurlyHey"
+		},
+		{
+			"offsets": [
+				95,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "CurlyLeft01"
+		},
+		{
+			"offsets": [
+				20,
+				-31
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "CurlyDown01"
+		},
+		{
+			"offsets": [
+				42,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "CurlyRight01"
+		},
+		{
+			"offsets": [
+				109,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "CurlyUp01"
+		},
+		{
+			"offsets": [
+				263,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "CurlyLeft02"
+		},
+		{
+			"offsets": [
+				-10,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "CurlyRight02"
+		},
+		{
+			"offsets": [
+				-3,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "CurlyDown02"
+		},
+		{
+			"offsets": [
+				100,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "CurlyUp02"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/curly",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "curly",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		175,
+		75
+	],
+	"camera_position": [
+		-100,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
