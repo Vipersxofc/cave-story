@@ -1,0 +1,13 @@
+{
+	"directory": "cave",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+	"stageName": "The Balcony",
+	"hide_girlfriend": true,
+	
+	"camera_boyfriend": [-400, -90],
+
+	"boyfriend": [1600, 720],
+	"girlfriend": [920, 780],
+	"opponent": [550, 720]
+}
