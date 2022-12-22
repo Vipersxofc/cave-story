@@ -1,12 +1,22 @@
 {
-	"directory": "cave",
-	"defaultZoom": 0.7,
-	"isPixelStage": false,
-	"stageName": "The Abyss",
-	
-	"camera_boyfriend": [-200, 0],
-
-	"boyfriend": [850, 130],
-	"girlfriend": [400, 130],
-	"opponent": [-215, 170]
+  "directory": "cave",
+  "defaultZoom": 0.7,
+  "isPixelStage": false,
+  "stageName": "the-abyss",
+  "camera_boyfriend": [
+    -200,
+    0
+  ],
+  "boyfriend": [
+    850,
+    130
+  ],
+  "girlfriend": [
+    400,
+    130
+  ],
+  "opponent": [
+    -215,
+    170
+  ]
 }
