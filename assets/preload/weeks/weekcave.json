@@ -1,0 +1,35 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "bonus",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Sedate",
+			"quote",
+			[
+				255,
+				13,
+				13
+			]
+		],
+		[
+			"Balcony",
+			"quote",
+			[
+				255,
+				13,
+				13
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Cave Story - more like save story",
+	"difficulties": "Normal"
+}
