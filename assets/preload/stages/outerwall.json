@@ -1,10 +1,18 @@
 {
-	"directory": "cave",
-	"defaultZoom": 0.65,
-	"isPixelStage": false,
-	"stageName": "Outerwall",
-
-	"boyfriend": [1850, 870],
-	"girlfriend": [920, 510],
-	"opponent": [250, 860]
+  "directory": "cave",
+  "defaultZoom": 0.65,
+  "isPixelStage": false,
+  "stageName": "outerwall",
+  "boyfriend": [
+    1850,
+    870
+  ],
+  "girlfriend": [
+    920,
+    510
+  ],
+  "opponent": [
+    250,
+    860
+  ]
 }
